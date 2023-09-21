@@ -1,0 +1,98 @@
+body{
+    background-color: #D7B7EB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#profile{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+#box{
+    width: 100%;
+    display:flex
+}
+
+#bg-box3{
+    width: 680px;
+    height: 75px;
+    margin-left: 25px;
+    margin-top: 25px;
+    background: #F2CBF6;
+}
+
+#bg-box4{
+    width: 680px;
+    height: 120px;
+    background: #F2CBF6;
+    color: #ffffff;
+    margin-left: 25px;
+}
+
+#button{
+    padding-top: 1px;
+    margin-left: 50px;
+}
+
+#textbox {
+    color: #ffffff;
+    margin-left: 200px;
+    padding-top: 0px;
+    display: flex;
+}
+
+#box2{
+    width: 100%;
+    display:flex
+}
+
+#bg-box2{
+    background: #F2CBF6;
+    width: 200px;
+    height: 155px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#hobbies{
+    color: #ffffff;
+    margin-left: 25px;
+}
+
+#loz{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+#box3{
+    width: 100%;
+    display:flex
+}
+
+#meme{
+    margin-left: 25px;
+    margin-top: -70px;
+}
+
+#bg-box{
+    margin-left: 25px;
+    margin-top: 25px;
+    background: #F2CBF6;
+    width: 680px;
+    height: 102px;
+}
+
+#social{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+#social1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#damn-everything{
+    width: 1284;
+    margin: 0px auto 0px auto;
+}

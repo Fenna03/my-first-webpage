@@ -7,36 +7,67 @@ body{
 }
 
 #boxx{
-    background: #F2CBF6;
-    margin-left: 25px;
-    margin-top: -15px;
+    margin-left: 250px;
+    margin-top: 25px;
     width: 100px;
-    height: 85px;
-    border-radius: 10px;
+    height: 50px;
+   
 }
 
-#idk-yet-man{
-    padding-left: 25px;
-    padding-top: 25px;
+#idk-yet-man a{
+    padding: 25px;
     color: #ffffff;
     font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    background: #F2CBF6;
+
 }
 
 #boxx2{
-    background: #F2CBF6;
     margin-left: 25px;
-    margin-top: -15px;
-    width: 100px;
-    height: 85px;
+    margin-top: 25px;
+}
+
+
+
+#idk-yet-man2 a{
+    padding: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    background: #F2CBF6;
     border-radius: 10px;
 }
 
-#idk-yet-man2{
-    padding-left: 25px;
-    padding-top: 25px;
+#boxx3{
+    margin-left: 25px;
+    margin-top: 25px;
+   
+}
+
+#idk-yet-man3 a{
+    padding: 25px;
     color: #ffffff;
     font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    background: #F2CBF6;
+
 }
+
+#idk-yet-man a:hover{
+    background: #CEA7E6;
+}
+
+#idk-yet-man2 a:hover{
+    background: #CEA7E6;
+}
+
+#idk-yet-man3 a:hover{
+    background: #CEA7E6;
+}
+
 
 #profile{
     margin-left: 25px;

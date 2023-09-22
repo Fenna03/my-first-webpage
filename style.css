@@ -2,6 +2,41 @@ body{
     background-color: #D7B7EB;
     font-family: Arial, Helvetica, sans-serif;
 }
+#fucks-sake{
+    display: flex;
+}
+
+#boxx{
+    background: #F2CBF6;
+    margin-left: 25px;
+    margin-top: -15px;
+    width: 100px;
+    height: 85px;
+    border-radius: 10px;
+}
+
+#idk-yet-man{
+    padding-left: 25px;
+    padding-top: 25px;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+#boxx2{
+    background: #F2CBF6;
+    margin-left: 25px;
+    margin-top: -15px;
+    width: 100px;
+    height: 85px;
+    border-radius: 10px;
+}
+
+#idk-yet-man2{
+    padding-left: 25px;
+    padding-top: 25px;
+    color: #ffffff;
+    font-size: 20px;
+}
 
 #profile{
     margin-left: 25px;

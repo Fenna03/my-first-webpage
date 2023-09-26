@@ -1,0 +1,63 @@
+
+#fucks-sake{
+    display: flex;
+}
+
+#boxx{
+    margin-left: 250px;
+    margin-top: 25px;
+    width: 100px;
+    height: 50px;
+   
+}
+
+#idk-yet-man a{
+    padding: 25px;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    background: #F2CBF6;
+
+}
+
+#boxx2{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+#idk-yet-man2 a{
+    padding: 25px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #ffffff;
+    background: #F2CBF6;
+    border-radius: 10px;
+}
+
+#boxx3{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+#idk-yet-man3 a{
+    padding: 25px;
+    color: #ffffff;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    background: #F2CBF6;
+}
+
+#idk-yet-man a:hover{
+    background: #CEA7E6;
+}
+
+#idk-yet-man2 a:hover{
+    background: #CEA7E6;
+}
+
+#idk-yet-man3 a:hover{
+    background: #CEA7E6;
+}
+
